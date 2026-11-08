@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oilchangedeals.github.io/Take-5-Oil-Change-coupons/sitemap.xml
